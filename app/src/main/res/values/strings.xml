@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Apk Tool 2</string>
     <string name="about">About</string>
-    <string name="app_site">http://folderv.com</string>
-    <string name="copyright">© 2022 vFISHv \n\n Email:foldervapp@gmail.com \n\n https://github.com/vfishv</string>
+    <string name="app_site">http://tiktok.com/@memeitizer_</string>
+    <string name="copyright">© 2022 vFISHv \n\n Email: hayden.contact.sms@icloud.com \n\n https://github.com/vfishv</string>
 
     <string name="subTitle">A tool for reverse engineering Android apk files</string>
     <string name="desc">A port of Apktool ( https://ibotpeaches.github.io/Apktool ) for Android</string>
